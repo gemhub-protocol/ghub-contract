@@ -4,7 +4,7 @@ GemHUB encourages the participation of game companies in the blockchain game mar
 
 GemHUB aims for **P&E(Play and Earn)** experiences. It intends to expand upon the concept of P2E (Play to Earn) with a clear purpose to create additional profits while also allowing users to enjoy games.
 
-# Audit Report
+# GHUB Audit Report
 
 |NO.|Audit Items|Result|
 |-|-|-|
