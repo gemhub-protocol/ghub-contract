@@ -1,4 +1,4 @@
-# GemHUB Protocol|
+# GemHUB Protocol
 
 GemHUB encourages the participation of game companies in the blockchain game market and global expansion by providing **game-oriented De-Fi services.**
 
