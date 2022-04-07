@@ -23,4 +23,4 @@ GemHUB aims for **P&E(Play and Earn)** experiences. It intends to expand upon th
 |13|Safety Design Audit|Passed|
 |14|Non-privacy/Non-dark Coin Audit|Passed|
 
-* [Full Report by SLOWMIST]()
+* [Full Report by SLOWMIST](https://github.com/gemhub-protocol/ghub-contract/blob/main/audit/Smart_Contract_Security_Audit_Report_by_Slowmist.pdf)
